@@ -1,0 +1,24 @@
+{
+    "FAQ": [
+        {
+            "title": "Com qual frequência um novo conteúdo é postado?",
+            "content": "Todos os dias. Arraste o histórico para baixo para atualizá-lo e ver se há algo novo."
+        },
+        {
+            "title": "Quais funcionalidades estarão em breve no aplicativo iDivertido?",
+            "content": "Na versão 2.0, você poderá criar uma conta no iDivertido."
+        },
+        {
+            "title": "O que eu poderei fazer com uma conta no iDivertido?",
+            "content": "Você poderá postar fotos diretamente no seu perfil, receber “curtidas” e comentários e seguir os posts de outras contas."
+        },
+        {
+            "title": "Como eu posso enviar minhas fotos engraçadas antes disto?",
+            "content": "Clique no botão 'ENVIAR' na parte inferior da tela. Sério que você não entendeu? Está escrito 'ENVIAR' no botão. O que mais você achou que ele faria? Tem certeza de que já tem idade suficiente para usar este aplicativo?"
+        },
+        {
+            "title": "Você esqueceu minha dúvida!",
+            "content": "Envie um e-mail para ajuda@idivertido.com ! Adoraríamos ouvir sua opinião :)"
+        }
+    ]
+}

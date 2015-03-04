@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RateMyApp</string>
+    <string name="dialog_message">Se você curtir o iDivertido, se importaria em nos dar uma avaliação de 5 estrelas? Leva apenas um minuto e nos ajuda muito. \n\nObrigado por seu apoio!</string>
+    <string name="dialog_check">Não, obrigado</string>
+    <string name="rate_now">Avalie o iDivertido agora</string>
+    <string name="reminder_later">Lembre-me depois</string>
+</resources>

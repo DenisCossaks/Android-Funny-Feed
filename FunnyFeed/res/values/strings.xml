@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iDivertido</string>
+    
+    <string name="action_settings">Settings</string>
+    
+    <!-- XlistView -->
+    <string name="xlistview_header_hint_normal">Pull to refresh</string>
+    <string name="xlistview_header_hint_ready">Release to refresh</string>
+    <string name="xlistview_header_hint_loading">Loading...</string>
+    <string name="xlistview_header_last_time">Last Updated：</string>
+    <string name="xlistview_footer_hint_normal">Load more</string>
+    <string name="xlistview_footer_hint_ready">Release to load more</string>
+
+    
+    <!-- Actionsheet -->
+    <string name="action_sheet_default">Escolha uma foto engraçada de sua galeria. Antes de enviá-la, deixamos que você escreva uma legenda.</string>
+    <string name="choose_photo">Escolher Foto</string>
+    <string name="cancel">Cancelar</string>
+    
+    <!-- Submit screen -->
+    <string name="enter_name">Seu Nome</string>
+    <string name="enter_email">Endereço de E-mail</string>
+    <string name="enter_caption">Legenda da Imagem</string>
+    <string name="submit">Enviar</string>
+    	
+    <!--  -->
+    
+	<string name="do_you_want_to_exit_this_app">Do you want to exit this app?</string>
+    <string name="NO">NO</string>
+    <string name="YES">YES</string>
+    
+    <!-- Errors -->
+    <string name="loading">Carregando...</string>
+    <string name="error">Erro</string>
+    <string name="error_image_too_big">O tamanho do arquivo da imagem é grande demais.</string>
+    <string name="error_submission_failed">Falha no envio para o servidor.</string>
+    <string name="error_need_caption">Você precisa fornecer uma legenda para a imagem.</string>
+    <string name="error_retrieving_feeds">Não foi possível conectar ao servidor, tente novamente.</string>
+    
+    
+    
+    <string name="tab_Timeline">HISTÓRICO</string>
+    <string name="tab_FAQ">FAQ</string>
+    <string name="tab_submit">ENVIAR</string>
+    
+    <string name="Submit_a_photo">UPLOAD PHOTO</string>
+    <string name="Photo">Photo</string>
+    
+</resources>
